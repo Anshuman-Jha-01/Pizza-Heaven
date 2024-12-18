@@ -68,7 +68,6 @@ The **Pizza Heaven Application** is an application that leverages **React Router
 
 3. **Start the development server:**
     ```bash 
-    npm create vite
     npm run dev
 
 4. **Open the application in your browser:**
